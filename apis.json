@@ -1,0 +1,67 @@
+{
+    "name": "Opentracker",
+    "description": "Use real time analytics to engage with your customers. Monitor behavior on your sit as it happens. Advanced event analytics platform. Free trial.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/903-opentracker.jpg",
+    "tags": [
+        "have api",
+        "tracking",
+        "visitors",
+        "website analytics",
+        "websites"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opentracker\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Opentracker",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/903-opentracker.jpg",
+            "humanURL": "http:\/\/www.opentracker.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opentracker-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.opentracker.net\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.opentracker.net\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.opentracker.net\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/opentracker"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/opentracker"
+        },
+        {
+            "type": "Email",
+            "url": "support@opentracker.net"
+        },
+        {
+            "type": "Email",
+            "url": "info@opentracker.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Opentracker"
+        }
+    ]
+}
